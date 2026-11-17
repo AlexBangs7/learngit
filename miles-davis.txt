@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 miles davis was a jazz musician in the 20th century
+miles davis played the trumpet and is well known for his jazz albums
+========
+>>>>>>> melodious
